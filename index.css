@@ -14,15 +14,15 @@ body {
 
 .contenedor {
   width: 25%;
-  height: 60vh;
+  height: 75vh;
   background-color: white;
-  border-radius: 15px;
+  border-radius: 20px;
   
 }
 .img {
   margin: 10px;
   max-width: 92%;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 .contenedor-texto {
   display: flex;
@@ -43,9 +43,9 @@ body {
 
 @media screen and (max-width: 376px) {
   .contenedor {
-    width: 85%;
+    width: 80%;
     height: 100vh;
-    border-radius: 35px;
+    border-radius: 25px;
 
   }
   .img {
